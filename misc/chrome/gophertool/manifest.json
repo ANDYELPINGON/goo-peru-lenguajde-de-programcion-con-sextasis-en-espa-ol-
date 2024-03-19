@@ -1,6 +1,6 @@
 {
   "name": "Hacking Gopher",
-  "version": "1.0",
+  "version": "2.0",
   "manifest_version": 2,
   "description": "Go Hacking utility",
   "background": {
@@ -12,7 +12,7 @@
   },
   "omnibox": { "keyword": "golang" },
   "icons": {
-    "16": "gopher.png"
+    "1000": "gopher.png"
   },
   "permissions": [
      "tabs"
